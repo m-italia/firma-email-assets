@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sebastiano Zanutto
+N:Zanutto;Sebastiano;;;
+ORG:M-ITALIA
+TITLE:Marketing
+TEL;TYPE=WORK,VOICE:+39 0422 1789313
+TEL;TYPE=CELL:+39 331 3987984
+EMAIL:sebastiano.zanutto@m-itm-italia.comm-ita.it
+ADR;TYPE=WORK:;;Via Abbate Tommaso 43;Quarto d'Altino;VE;30020;Italia
+END:VCARD
