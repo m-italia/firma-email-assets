@@ -1,0 +1,133 @@
+<table cellpadding="0" cellspacing="0" border="0"
+       style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; color:#333333;">
+
+  <!-- HEADER: FOTO + NOME -->
+  <tr>
+    <td style="padding-bottom:8px;">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td style="vertical-align:middle;">
+            <div style="font-size:13px; font-weight:700; color:#d20a10; line-height:1.2;">
+              Umberto Darsiè
+            </div>
+            <div style="font-size:12px; font-weight:600; color:#333333; line-height:1.2;">
+              Ufficio commerciale
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- LINEA -->
+  <tr>
+    <td><div style="height:1.5px; background-color:#000; margin:6px 0;"></div></td>
+  </tr>
+
+  <!-- LOGO -->
+  <tr>
+    <td style="padding-bottom:6px;">
+      <img src="https://m-italia.github.io/firma-email-assets/icons/m-ita-wide.png"
+           width="130"
+           alt="M-ITALIA"
+           style="display:block; border:0;">
+    </td>
+  </tr>
+
+  <!-- CONTATTI -->
+  <tr>
+    <td style="padding-bottom:6px;">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td style="padding-right:22px; font-size:8pt; line-height:1.3; vertical-align:top;">
+            <img src="https://m-italia.github.io/firma-email-assets/icons/phone.png"
+                 width="12" style="vertical-align:middle; margin-right:4px; border:0;">
+            +39 0422 178 9313<br>
+            <img src="https://m-italia.github.io/firma-email-assets/icons/mobile.png"
+                 width="12" style="vertical-align:middle; margin-right:4px; border:0;">
+            +39 331 39 87 984<br>
+            
+            <img src="https://m-italia.github.io/firma-email-assets/icons/mail.png"
+                 width="12" style="vertical-align:middle; margin-right:4px; border:0;">
+            <a href="mailto:umberto.darsie@m-italia.com"
+               style="color:#333333; text-decoration:none;">
+              umberto.darsie@m-italia.com
+            </a><br>
+            <img src="https://m-italia.github.io/firma-email-assets/icons/web.png"
+                 width="12" style="vertical-align:middle; margin-right:4px; border:0;">
+            <a href="https://www.m-italia.com"
+               style="color:#333333; text-decoration:none; font-weight:700;">
+              www.m-italia.com
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- INDIRIZZI -->
+  <tr>
+    <td style="font-size:8pt; line-height:1.3; padding-bottom:6px;">
+      <strong>Sede legale:</strong> Aurisina Cave, 46 · 34011 Duino Aurisina (TS)<br>
+      <strong>Partita IVA:</strong> IT01333670329<br>
+      <strong>Sede operativa:</strong> Via Abbate Tommaso, 43 · 30020 Quarto D'Altino (VE)
+    </td>
+  </tr>
+
+  <!-- SOCIAL -->
+  <tr>
+    <td style="padding-bottom:8px;">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td style="padding-right:6px;">
+            <a href="https://www.facebook.com/m.italia.attrezzature#">
+              <img src="https://m-italia.github.io/firma-email-assets/icons/facebook.png"
+                   width="15" style="display:block; border:0;">
+            </a>
+          </td>
+          <td style="padding-right:6px;">
+            <a href="https://www.instagram.com/_m_italia/">
+              <img src="https://m-italia.github.io/firma-email-assets/icons/instagram.png"
+                   width="15" style="display:block; border:0;">
+            </a>
+          </td>
+          <td style="padding-right:8px;">
+            <a href="https://www.linkedin.com/company/m-italia">
+              <img src="https://m-italia.github.io/firma-email-assets/icons/linkedin.png"
+                   width="15" style="display:block; border:0;">
+            </a>
+          </td>
+          <td style="font-size:8pt; font-weight:700; color:#333333;">
+            Seguici sui social
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- DISCLAIMER -->
+  <tr>
+    <td style="padding-top:4px;">
+      <p style="margin:0; font-size:6pt; line-height:1.1; color:#999999;">
+        Il presente messaggio e gli allegati sono rivolti esclusivamente ai destinatari indicati
+        e possono contenere informazioni riservate.<br>
+        Qualora il messaggio fosse stato ricevuto per errore, è vietato qualsiasi utilizzo o diffusione del contenuto.<br>
+        Si prega di informare il mittente e di cancellare immediatamente il messaggio.
+      </p>
+    </td>
+  </tr>
+
+  <!-- ECO MESSAGE -->
+  <tr>
+    <td style="padding-top:5px;">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td style="font-size:6pt; color:#2e8b57; font-weight:700; line-height:1.1;">
+            Prima di stampare questa e-mail, considera la tutela dell'ambiente.
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+</table>
